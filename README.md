@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ... 確認おねがいします
+
+変更しました
