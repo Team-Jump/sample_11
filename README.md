@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ... 確認おねがいします
+* ... 確認完了
